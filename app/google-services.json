@@ -1,0 +1,259 @@
+{
+  "project_info": {
+    "project_number": "594551364139",
+    "firebase_url": "https://s3-3c98b.firebaseio.com",
+    "project_id": "s3-3c98b",
+    "storage_bucket": "s3-3c98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:72b73404dacd6bf507686e",
+        "android_client_info": {
+          "package_name": "com.app.newscurrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-p4silmvjlmudv276ptqrhbafta79htge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.newscurrent",
+            "certificate_hash": "4e0915da39e402c417f735b6663ebbd4cca7b6dc"
+          }
+        },
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:9980210454311a0707686e",
+        "android_client_info": {
+          "package_name": "com.bastisapp.mobileapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-3f1fua67ouoag4djdfe6as9emddn5vfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bastisapp.mobileapp3",
+            "certificate_hash": "4e0915da39e402c417f735b6663ebbd4cca7b6dc"
+          }
+        },
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:8764b6dd90b0870e07686e",
+        "android_client_info": {
+          "package_name": "com.entertainment.shortvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:c6bbc0bf65909fc207686e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:bfa84b25eb47854807686e",
+        "android_client_info": {
+          "package_name": "com.santy.msg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-oahvt13vq0i00m1ehprjusf8j8i653ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santy.msg",
+            "certificate_hash": "4e0915da39e402c417f735b6663ebbd4cca7b6dc"
+          }
+        },
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594551364139:android:0bcc9bb34bf0ff5a07686e",
+        "android_client_info": {
+          "package_name": "com.santy.smartschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594551364139-e1pnhp0krgcg8dnj1jgqso2pdljdef21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santy.smartschool",
+            "certificate_hash": "88267933ec9548e2e6ae3c498efb6d61e99dcdcd"
+          }
+        },
+        {
+          "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQRmTJK7XQqhH1ip9TcM43eHF03jjnXTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594551364139-gad9ne7cncia28sg4t3v0fv6ujg2gu0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594551364139-ktujh3e836hhj3rian2u9r4djg3h7pv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.santy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
